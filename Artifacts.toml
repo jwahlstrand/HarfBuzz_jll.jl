@@ -1,0 +1,123 @@
+[[HarfBuzz]]
+arch = "aarch64"
+git-tree-sha1 = "5926abd6354ca4a3f221fcebfbe56e028f8f2a18"
+os = "macos"
+
+    [[HarfBuzz.download]]
+    sha256 = "259640f5e4df4228920bab162c8383eab575e5b047b700e402c4cafae76f2205"
+    url = "https://github.com/jwahlstrand/HarfBuzz_jll.jl/releases/download/HarfBuzz-v8.3.1+0/HarfBuzz.v8.3.1.aarch64-apple-darwin.tar.gz"
+[[HarfBuzz]]
+arch = "aarch64"
+git-tree-sha1 = "84ba559e41a05a3f0910a310a7c984dfde8f739c"
+libc = "glibc"
+os = "linux"
+
+    [[HarfBuzz.download]]
+    sha256 = "8b9267e3347204244da72384869245ee76660bedac8bfe3e659fdec0c88092b0"
+    url = "https://github.com/jwahlstrand/HarfBuzz_jll.jl/releases/download/HarfBuzz-v8.3.1+0/HarfBuzz.v8.3.1.aarch64-linux-gnu.tar.gz"
+[[HarfBuzz]]
+arch = "aarch64"
+git-tree-sha1 = "96ee61e042af508aa3737a8de815d1d0aeef98dc"
+libc = "musl"
+os = "linux"
+
+    [[HarfBuzz.download]]
+    sha256 = "45809574e87a515de813daa9868ac2a46afe227f6bc66e775ccc2ae662a4692a"
+    url = "https://github.com/jwahlstrand/HarfBuzz_jll.jl/releases/download/HarfBuzz-v8.3.1+0/HarfBuzz.v8.3.1.aarch64-linux-musl.tar.gz"
+[[HarfBuzz]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "2963f71b2dfab8b4c965da959cc3fc9d66f71e51"
+libc = "glibc"
+os = "linux"
+
+    [[HarfBuzz.download]]
+    sha256 = "4706c1bfc43f7126342c179b7639e33932e310fb6d2c36d6a3d83ad046b76b4d"
+    url = "https://github.com/jwahlstrand/HarfBuzz_jll.jl/releases/download/HarfBuzz-v8.3.1+0/HarfBuzz.v8.3.1.armv7l-linux-gnueabihf.tar.gz"
+[[HarfBuzz]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "43234a119d226ba329240116db126fa888a39553"
+libc = "musl"
+os = "linux"
+
+    [[HarfBuzz.download]]
+    sha256 = "8c71abbe88db9b5a1485fcfa262c4d9983461d254d1977abe24bae79f490b1d0"
+    url = "https://github.com/jwahlstrand/HarfBuzz_jll.jl/releases/download/HarfBuzz-v8.3.1+0/HarfBuzz.v8.3.1.armv7l-linux-musleabihf.tar.gz"
+[[HarfBuzz]]
+arch = "i686"
+git-tree-sha1 = "9cc52403fa93191c2ad188a664125577645937f4"
+libc = "glibc"
+os = "linux"
+
+    [[HarfBuzz.download]]
+    sha256 = "4589be2b73b8b9d23b279994da79e21c85e60122b066db6f8243af16e4023499"
+    url = "https://github.com/jwahlstrand/HarfBuzz_jll.jl/releases/download/HarfBuzz-v8.3.1+0/HarfBuzz.v8.3.1.i686-linux-gnu.tar.gz"
+[[HarfBuzz]]
+arch = "i686"
+git-tree-sha1 = "ce695b21f0a9e5b7c7146e104553b29440629dcd"
+libc = "musl"
+os = "linux"
+
+    [[HarfBuzz.download]]
+    sha256 = "2d1c05c1e043cbb1f85fe1e2d4ec372bee24fa2fa2309a3e4912e3c68f4dd380"
+    url = "https://github.com/jwahlstrand/HarfBuzz_jll.jl/releases/download/HarfBuzz-v8.3.1+0/HarfBuzz.v8.3.1.i686-linux-musl.tar.gz"
+[[HarfBuzz]]
+arch = "i686"
+git-tree-sha1 = "0c4ade6d67aa5ec006293cb9a3392624b4d69afc"
+os = "windows"
+
+    [[HarfBuzz.download]]
+    sha256 = "5af0c1e0b40cd373942bba53c6225e6026e538ee1d39356dbae3b63674a22de7"
+    url = "https://github.com/jwahlstrand/HarfBuzz_jll.jl/releases/download/HarfBuzz-v8.3.1+0/HarfBuzz.v8.3.1.i686-w64-mingw32.tar.gz"
+[[HarfBuzz]]
+arch = "powerpc64le"
+git-tree-sha1 = "b356a5420af0290d2d7ce208331240d0b40f1a78"
+libc = "glibc"
+os = "linux"
+
+    [[HarfBuzz.download]]
+    sha256 = "fa19a7e0e1c5dceb39e272b0ab27bb877fe47b8eba32e9fe8f7830eb4173fbbe"
+    url = "https://github.com/jwahlstrand/HarfBuzz_jll.jl/releases/download/HarfBuzz-v8.3.1+0/HarfBuzz.v8.3.1.powerpc64le-linux-gnu.tar.gz"
+[[HarfBuzz]]
+arch = "x86_64"
+git-tree-sha1 = "562766e3a00463aa26f6502a452675b33359f7c6"
+os = "macos"
+
+    [[HarfBuzz.download]]
+    sha256 = "578c72d01dd737c62639bfb9d220a9804eed7ac109aceaf84ad5dd648180d893"
+    url = "https://github.com/jwahlstrand/HarfBuzz_jll.jl/releases/download/HarfBuzz-v8.3.1+0/HarfBuzz.v8.3.1.x86_64-apple-darwin.tar.gz"
+[[HarfBuzz]]
+arch = "x86_64"
+git-tree-sha1 = "75b657b876788e58671ab6b88e49019aa36b67cd"
+libc = "glibc"
+os = "linux"
+
+    [[HarfBuzz.download]]
+    sha256 = "4b6336e2db27662298bb3d6cede60dce73ce44ed0f55a0ded529fdede227d071"
+    url = "https://github.com/jwahlstrand/HarfBuzz_jll.jl/releases/download/HarfBuzz-v8.3.1+0/HarfBuzz.v8.3.1.x86_64-linux-gnu.tar.gz"
+[[HarfBuzz]]
+arch = "x86_64"
+git-tree-sha1 = "73f14fee1847c12403ef71b5c024ed366156772b"
+libc = "musl"
+os = "linux"
+
+    [[HarfBuzz.download]]
+    sha256 = "5ba27f61c2d4f951caa2254409e8c4430273d8a6bf3e6b14522779abf38507a7"
+    url = "https://github.com/jwahlstrand/HarfBuzz_jll.jl/releases/download/HarfBuzz-v8.3.1+0/HarfBuzz.v8.3.1.x86_64-linux-musl.tar.gz"
+[[HarfBuzz]]
+arch = "x86_64"
+git-tree-sha1 = "913a297b34a5abb596ee4b6c3a23c548e92657c5"
+os = "freebsd"
+
+    [[HarfBuzz.download]]
+    sha256 = "0f9b79ae1092e62385be9f08ab1904ca1b71b87ea622f6bbde5451d49b9433b5"
+    url = "https://github.com/jwahlstrand/HarfBuzz_jll.jl/releases/download/HarfBuzz-v8.3.1+0/HarfBuzz.v8.3.1.x86_64-unknown-freebsd.tar.gz"
+[[HarfBuzz]]
+arch = "x86_64"
+git-tree-sha1 = "bb2ef2b90603801b2f474fb8703089cefbac951c"
+os = "windows"
+
+    [[HarfBuzz.download]]
+    sha256 = "26e608899dea6df9af57b2cbb98458247805db984a85400288c46baec108184f"
+    url = "https://github.com/jwahlstrand/HarfBuzz_jll.jl/releases/download/HarfBuzz-v8.3.1+0/HarfBuzz.v8.3.1.x86_64-w64-mingw32.tar.gz"
